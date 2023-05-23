@@ -6,7 +6,7 @@
         </a>
         <a href="#" class="text-center ms-logo-img-link"> <img src="{{ asset('assets/assets/img/me.jpg') }}"
                 alt="logo"></a>
-        <h5 class="text-center text-white mt-2">Dr.Tahura Nasrin Mitu</h5>
+        <h5 class="text-center text-white mt-2">Tahura Nasrin Mitu</h5>
         <h6 class="text-center text-white mb-3">Admin</h6>
     </div>
     <!-- Navigation -->
